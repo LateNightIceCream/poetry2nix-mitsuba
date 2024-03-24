@@ -1,2 +1,19 @@
 # poetry2nix-mitsuba
-please work!!
+
+To reproduce the problem:
+
+```
+nix develop
+```
+
+then
+```
+python
+```
+
+then
+```
+> import mitsuba
+```
+
+
